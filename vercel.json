@@ -1,0 +1,9 @@
+{
+    "build": {
+      "commands": {
+        "build": "vite build"
+      },
+      "publish": "dist"
+    }
+  }
+  
