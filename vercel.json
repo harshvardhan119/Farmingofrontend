@@ -1,7 +1,6 @@
 {
+    "version": 2,
     "build": {
-      "command": "npm run build",
-      "publish": "dist"
+      "outputDirectory": "dist"
     }
   }
-  
